@@ -1,0 +1,601 @@
+Date,Category,Type,Amount,PaymentMethod
+2025-01-01,Shopping,Expense,1906.87,Cash
+2025-01-02,Food,Expense,6554.17,Cash
+2025-01-02,Other,Expense,5952.32,UPI
+2025-01-02,Food,Expense,4557.92,Bank Transfer
+2025-01-03,Shopping,Expense,3807.44,Card
+2025-01-03,Other,Income,6095.81,Card
+2025-01-04,Salary,Income,36639.43,Card
+2025-01-05,Salary,Income,51125.05,Card
+2025-01-06,Transport,Expense,7639.11,UPI
+2025-01-06,Bills,Expense,6749.11,Bank Transfer
+2025-01-07,Salary,Income,48115.44,Card
+2025-01-09,Transport,Expense,907.86,UPI
+2025-01-09,Salary,Income,44128.63,Card
+2025-01-10,Transport,Expense,4126.36,Card
+2025-01-11,Salary,Income,22526.36,Bank Transfer
+2025-01-12,Other,Expense,10564.68,Cash
+2025-01-13,Other,Expense,7404.2,UPI
+2025-01-17,Education,Expense,2574.89,Card
+2025-01-17,Food,Expense,929.21,Cash
+2025-01-18,Travel,Expense,6449.94,Bank Transfer
+2025-01-20,Shopping,Expense,6517.91,Bank Transfer
+2025-01-21,Travel,Expense,9123.48,Cash
+2025-01-22,Healthcare,Expense,2317.41,Card
+2025-01-22,Entertainment,Expense,4331.89,UPI
+2025-01-23,Food,Expense,6743.75,Card
+2025-01-24,Education,Expense,11321.26,Cash
+2025-01-24,Entertainment,Expense,11115.57,Bank Transfer
+2025-01-25,Salary,Income,11512.06,Bank Transfer
+2025-01-27,Entertainment,Expense,2898.94,Card
+2025-01-27,Salary,Income,37883.38,Card
+2025-01-28,Food,Expense,6518.75,Bank Transfer
+2025-01-30,Transport,Expense,11152.16,Bank Transfer
+2025-01-31,Healthcare,Expense,5993.72,Cash
+2025-01-31,Education,Expense,8894.66,Bank Transfer
+2025-02-01,Salary,Income,64156.78,UPI
+2025-02-01,Education,Expense,391.44,UPI
+2025-02-02,Education,Expense,6165.26,Bank Transfer
+2025-02-02,Entertainment,Expense,10068.42,Cash
+2025-02-02,Education,Expense,1470.57,Bank Transfer
+2025-02-06,Salary,Income,20115.75,UPI
+2025-02-07,Salary,Income,10142.62,Card
+2025-02-08,Shopping,Expense,3846.32,Card
+2025-02-09,Entertainment,Expense,10053.3,Bank Transfer
+2025-02-10,Healthcare,Expense,6505.74,Card
+2025-02-11,Education,Expense,10121.44,UPI
+2025-02-12,Salary,Income,8320.35,Bank Transfer
+2025-02-13,Food,Expense,3344.66,UPI
+2025-02-13,Bills,Expense,4298.78,Bank Transfer
+2025-02-13,Entertainment,Expense,1346.67,Cash
+2025-02-14,Education,Expense,2081.23,Cash
+2025-02-17,Travel,Expense,11967.15,Card
+2025-02-19,Healthcare,Expense,1667.27,UPI
+2025-02-19,Entertainment,Expense,10754.23,Card
+2025-02-19,Food,Expense,11588.05,Bank Transfer
+2025-02-19,Healthcare,Expense,8941.51,Card
+2025-02-20,Shopping,Expense,7364.04,Cash
+2025-02-21,Transport,Expense,6604.86,Bank Transfer
+2025-02-21,Other,Expense,8524.16,Bank Transfer
+2025-02-25,Entertainment,Expense,9521.12,Bank Transfer
+2025-02-25,Transport,Expense,5360.59,UPI
+2025-02-27,Travel,Expense,11676.84,UPI
+2025-03-01,Other,Income,846.4,UPI
+2025-03-02,Bills,Expense,5404.88,Bank Transfer
+2025-03-03,Salary,Income,29733.34,UPI
+2025-03-05,Salary,Income,50115.21,Cash
+2025-03-05,Salary,Income,21697.68,UPI
+2025-03-07,Transport,Expense,9786.22,Bank Transfer
+2025-03-07,Salary,Income,45618.58,UPI
+2025-03-07,Salary,Income,8669.37,Bank Transfer
+2025-03-08,Bills,Expense,5435.35,Card
+2025-03-09,Travel,Expense,2085.54,Cash
+2025-03-12,Salary,Income,26205.85,Card
+2025-03-12,Salary,Income,30730.45,Cash
+2025-03-14,Salary,Income,60861.83,Card
+2025-03-15,Salary,Income,9238.55,Card
+2025-03-15,Other,Expense,2828.22,Card
+2025-03-16,Food,Expense,10516.61,Cash
+2025-03-16,Other,Income,4934.98,Cash
+2025-03-16,Transport,Expense,7811.24,Bank Transfer
+2025-03-17,Other,Income,6885.12,Card
+2025-03-17,Education,Expense,5362.83,Cash
+2025-03-17,Salary,Income,29213.75,Cash
+2025-03-19,Shopping,Expense,9419.19,Bank Transfer
+2025-03-21,Entertainment,Expense,4872.83,Cash
+2025-03-22,Salary,Income,51831.19,Bank Transfer
+2025-03-24,Education,Expense,5643.49,UPI
+2025-03-24,Salary,Income,33808.77,Card
+2025-03-25,Travel,Expense,1750.69,Card
+2025-03-25,Other,Expense,1549.74,Card
+2025-03-26,Transport,Expense,11488.28,Card
+2025-03-26,Bills,Expense,3122.97,Bank Transfer
+2025-03-27,Entertainment,Expense,10622.32,Card
+2025-03-27,Entertainment,Expense,4553.06,Cash
+2025-03-27,Food,Expense,9366.53,Bank Transfer
+2025-03-27,Other,Expense,7862.92,Bank Transfer
+2025-03-28,Food,Expense,2336.59,Bank Transfer
+2025-03-29,Food,Expense,9199.48,Bank Transfer
+2025-03-29,Entertainment,Expense,11809.62,UPI
+2025-03-30,Travel,Expense,440.68,Bank Transfer
+2025-03-30,Salary,Income,55902.05,Cash
+2025-03-30,Entertainment,Expense,10100.89,UPI
+2025-03-31,Healthcare,Expense,10247.16,UPI
+2025-04-01,Entertainment,Expense,10378.6,Bank Transfer
+2025-04-01,Salary,Income,11931.29,Card
+2025-04-02,Entertainment,Expense,4292.85,Bank Transfer
+2025-04-02,Travel,Expense,7552.54,Card
+2025-04-03,Food,Expense,7428.25,Cash
+2025-04-03,Shopping,Expense,276.5,UPI
+2025-04-04,Bills,Expense,879.28,Cash
+2025-04-06,Transport,Expense,6016.44,Card
+2025-04-07,Salary,Income,53876.9,Bank Transfer
+2025-04-08,Bills,Expense,1982.6,Card
+2025-04-08,Education,Expense,4637.94,Card
+2025-04-08,Salary,Income,21512.95,Cash
+2025-04-11,Salary,Income,11898.64,Cash
+2025-04-12,Travel,Expense,6141.14,UPI
+2025-04-12,Transport,Expense,3988.47,UPI
+2025-04-13,Healthcare,Expense,6738.08,UPI
+2025-04-13,Bills,Expense,3238.14,UPI
+2025-04-15,Travel,Expense,6571.66,Card
+2025-04-19,Bills,Expense,10177.82,Card
+2025-04-20,Healthcare,Expense,9467.06,Card
+2025-04-20,Food,Expense,6395.02,Card
+2025-04-21,Healthcare,Expense,6924.16,Bank Transfer
+2025-04-27,Transport,Expense,2159.09,UPI
+2025-04-27,Salary,Income,36022.43,Bank Transfer
+2025-04-27,Other,Income,791.18,Bank Transfer
+2025-04-28,Bills,Expense,10039.75,Cash
+2025-04-29,Bills,Expense,1500.96,UPI
+2025-04-30,Travel,Expense,7657.51,UPI
+2025-04-30,Other,Expense,1454.4,UPI
+2025-05-01,Healthcare,Expense,4985.97,Cash
+2025-05-02,Healthcare,Expense,6656.76,Cash
+2025-05-03,Education,Expense,9578.17,UPI
+2025-05-05,Transport,Expense,8882.42,UPI
+2025-05-05,Salary,Income,41655.73,UPI
+2025-05-08,Entertainment,Expense,6713.57,Bank Transfer
+2025-05-08,Bills,Expense,9493.61,Bank Transfer
+2025-05-09,Other,Expense,3556.75,Bank Transfer
+2025-05-09,Healthcare,Expense,10557.59,UPI
+2025-05-09,Other,Expense,8656.49,UPI
+2025-05-09,Education,Expense,1218.38,Bank Transfer
+2025-05-10,Travel,Expense,7787.77,Bank Transfer
+2025-05-11,Salary,Income,22179.65,UPI
+2025-05-12,Other,Expense,2530.92,Card
+2025-05-12,Transport,Expense,3712.4,Cash
+2025-05-12,Entertainment,Expense,4327.94,UPI
+2025-05-14,Salary,Income,31534.78,Cash
+2025-05-16,Salary,Income,13775.65,Bank Transfer
+2025-05-16,Entertainment,Expense,9208.89,Bank Transfer
+2025-05-18,Bills,Expense,1811.39,Cash
+2025-05-19,Shopping,Expense,105.43,Cash
+2025-05-21,Salary,Income,59322.81,Bank Transfer
+2025-05-21,Salary,Income,12772.09,UPI
+2025-05-22,Education,Expense,9830.27,UPI
+2025-05-24,Salary,Income,56857.17,Card
+2025-05-25,Education,Expense,6940.61,Cash
+2025-05-26,Salary,Income,56327.67,Card
+2025-05-26,Salary,Income,9759.22,Cash
+2025-05-27,Salary,Income,55824.02,Cash
+2025-05-29,Transport,Expense,4911.22,Card
+2025-05-30,Education,Expense,495.4,Card
+2025-06-02,Entertainment,Expense,4638.92,UPI
+2025-06-04,Other,Expense,5330.7,UPI
+2025-06-05,Entertainment,Expense,4447.13,Bank Transfer
+2025-06-05,Entertainment,Expense,2493.39,Bank Transfer
+2025-06-06,Entertainment,Expense,5581.38,Cash
+2025-06-07,Other,Expense,10626.64,UPI
+2025-06-07,Healthcare,Expense,10434.21,Bank Transfer
+2025-06-08,Bills,Expense,9774.07,Card
+2025-06-08,Food,Expense,7307.87,Bank Transfer
+2025-06-08,Healthcare,Expense,6896.63,UPI
+2025-06-09,Food,Expense,6086.51,Cash
+2025-06-09,Travel,Expense,10247.44,UPI
+2025-06-10,Food,Expense,3889.0,Cash
+2025-06-10,Other,Expense,11536.61,Cash
+2025-06-10,Salary,Income,63148.42,Cash
+2025-06-11,Travel,Expense,8676.13,Cash
+2025-06-12,Entertainment,Expense,9235.52,Cash
+2025-06-12,Travel,Expense,1986.79,Cash
+2025-06-12,Entertainment,Expense,8980.29,Card
+2025-06-13,Other,Income,2690.84,UPI
+2025-06-13,Healthcare,Expense,870.69,Bank Transfer
+2025-06-13,Transport,Expense,7264.64,Card
+2025-06-14,Salary,Income,46531.35,Bank Transfer
+2025-06-16,Bills,Expense,6910.3,Bank Transfer
+2025-06-16,Transport,Expense,7334.4,Bank Transfer
+2025-06-16,Salary,Income,14710.12,Card
+2025-06-16,Shopping,Expense,8231.1,Cash
+2025-06-20,Food,Expense,1052.37,Card
+2025-06-20,Shopping,Expense,9622.78,Cash
+2025-06-23,Salary,Income,42746.03,Cash
+2025-06-24,Transport,Expense,485.75,UPI
+2025-06-25,Bills,Expense,2962.28,Cash
+2025-06-25,Other,Income,7368.08,UPI
+2025-06-27,Entertainment,Expense,6326.25,Cash
+2025-06-27,Salary,Income,34078.59,Cash
+2025-06-27,Shopping,Expense,10001.4,UPI
+2025-06-28,Food,Expense,6206.62,Bank Transfer
+2025-06-28,Education,Expense,11654.99,Card
+2025-06-28,Entertainment,Expense,10107.14,UPI
+2025-06-30,Healthcare,Expense,11701.65,Cash
+2025-07-02,Transport,Expense,7515.02,Bank Transfer
+2025-07-02,Bills,Expense,4493.65,Card
+2025-07-02,Salary,Income,23797.03,UPI
+2025-07-03,Salary,Income,26544.34,Bank Transfer
+2025-07-03,Entertainment,Expense,4126.64,Cash
+2025-07-04,Healthcare,Expense,1217.1,Card
+2025-07-05,Salary,Income,33056.85,Cash
+2025-07-05,Entertainment,Expense,8720.9,Card
+2025-07-06,Entertainment,Expense,10479.65,Cash
+2025-07-06,Bills,Expense,2380.84,Bank Transfer
+2025-07-07,Other,Expense,7413.92,Cash
+2025-07-13,Entertainment,Expense,11196.64,Card
+2025-07-14,Bills,Expense,6159.85,Bank Transfer
+2025-07-14,Entertainment,Expense,10861.72,Cash
+2025-07-15,Salary,Income,18631.45,Card
+2025-07-15,Travel,Expense,7296.0,Card
+2025-07-16,Bills,Expense,7779.74,Card
+2025-07-17,Bills,Expense,5677.65,Bank Transfer
+2025-07-18,Shopping,Expense,2946.67,Card
+2025-07-21,Other,Income,5916.32,Card
+2025-07-25,Food,Expense,6965.88,UPI
+2025-07-26,Salary,Income,28941.76,Bank Transfer
+2025-07-26,Healthcare,Expense,8587.07,Card
+2025-07-28,Bills,Expense,9800.52,Bank Transfer
+2025-07-29,Salary,Income,41303.32,Bank Transfer
+2025-08-01,Salary,Income,45763.26,Bank Transfer
+2025-08-02,Other,Expense,1232.22,UPI
+2025-08-02,Entertainment,Expense,9483.69,Bank Transfer
+2025-08-04,Bills,Expense,1748.04,Bank Transfer
+2025-08-07,Other,Expense,7068.14,Bank Transfer
+2025-08-08,Food,Expense,5156.68,UPI
+2025-08-09,Other,Expense,4391.37,Bank Transfer
+2025-08-10,Food,Expense,11745.62,UPI
+2025-08-11,Travel,Expense,2097.97,UPI
+2025-08-12,Other,Income,6482.7,Cash
+2025-08-13,Education,Expense,4478.07,Card
+2025-08-14,Bills,Expense,4326.52,UPI
+2025-08-17,Education,Expense,8820.02,Card
+2025-08-17,Education,Expense,9530.71,UPI
+2025-08-17,Education,Expense,9294.5,Card
+2025-08-18,Other,Expense,1087.78,UPI
+2025-08-19,Education,Expense,8055.43,Bank Transfer
+2025-08-19,Travel,Expense,1361.24,Card
+2025-08-20,Food,Expense,2957.09,Bank Transfer
+2025-08-21,Education,Expense,5811.28,UPI
+2025-08-22,Salary,Income,43257.5,Bank Transfer
+2025-08-23,Entertainment,Expense,4043.65,Cash
+2025-08-26,Education,Expense,5085.76,Bank Transfer
+2025-08-26,Other,Expense,1344.72,UPI
+2025-08-27,Food,Expense,4350.97,Bank Transfer
+2025-08-28,Shopping,Expense,6684.31,Card
+2025-08-29,Salary,Income,9571.69,UPI
+2025-08-30,Travel,Expense,8686.4,Cash
+2025-08-30,Salary,Income,18525.06,Card
+2025-08-31,Bills,Expense,2468.36,Bank Transfer
+2025-09-01,Salary,Income,56960.93,Card
+2025-09-02,Bills,Expense,589.31,Cash
+2025-09-03,Salary,Income,49096.68,Bank Transfer
+2025-09-04,Salary,Income,23481.51,Card
+2025-09-05,Salary,Income,34975.95,Card
+2025-09-05,Entertainment,Expense,5022.47,UPI
+2025-09-07,Bills,Expense,2832.52,Card
+2025-09-08,Travel,Expense,8915.63,Cash
+2025-09-09,Shopping,Expense,8675.55,Cash
+2025-09-09,Shopping,Expense,6706.05,Bank Transfer
+2025-09-10,Food,Expense,5466.63,Card
+2025-09-11,Entertainment,Expense,4112.93,Cash
+2025-09-12,Shopping,Expense,4727.46,Cash
+2025-09-13,Transport,Expense,4407.74,UPI
+2025-09-14,Salary,Income,59069.18,Bank Transfer
+2025-09-14,Healthcare,Expense,7186.12,Card
+2025-09-15,Shopping,Expense,164.13,Card
+2025-09-16,Food,Expense,2636.5,Card
+2025-09-16,Healthcare,Expense,8296.46,Card
+2025-09-16,Transport,Expense,3595.92,Bank Transfer
+2025-09-17,Travel,Expense,10641.1,Bank Transfer
+2025-09-20,Food,Expense,1081.37,Cash
+2025-09-20,Salary,Income,63928.25,Bank Transfer
+2025-09-21,Salary,Income,34486.35,Bank Transfer
+2025-09-22,Salary,Income,55065.17,Cash
+2025-09-24,Transport,Expense,1896.82,Cash
+2025-09-24,Healthcare,Expense,9992.35,Bank Transfer
+2025-09-25,Salary,Income,24731.08,Bank Transfer
+2025-09-26,Entertainment,Expense,10220.69,Cash
+2025-09-27,Healthcare,Expense,309.81,Bank Transfer
+2025-09-27,Salary,Income,51710.25,Card
+2025-09-28,Education,Expense,6127.7,UPI
+2025-09-28,Shopping,Expense,6249.6,Bank Transfer
+2025-09-29,Shopping,Expense,5506.89,Card
+2025-09-29,Other,Expense,5202.69,Card
+2025-09-29,Other,Expense,3852.77,Bank Transfer
+2025-09-30,Entertainment,Expense,1344.84,Card
+2025-10-01,Shopping,Expense,8749.05,UPI
+2025-10-01,Shopping,Expense,7656.96,Bank Transfer
+2025-10-03,Travel,Expense,6713.02,Card
+2025-10-03,Salary,Income,46712.71,Cash
+2025-10-06,Healthcare,Expense,7918.68,Cash
+2025-10-06,Transport,Expense,8299.35,Card
+2025-10-07,Healthcare,Expense,4167.69,Card
+2025-10-07,Education,Expense,9390.5,UPI
+2025-10-07,Transport,Expense,3556.87,Bank Transfer
+2025-10-09,Other,Income,6536.76,Card
+2025-10-09,Other,Income,3470.23,UPI
+2025-10-09,Education,Expense,2360.17,Bank Transfer
+2025-10-09,Education,Expense,6932.35,UPI
+2025-10-10,Travel,Expense,2036.97,UPI
+2025-10-10,Food,Expense,1938.35,UPI
+2025-10-11,Bills,Expense,1909.16,Card
+2025-10-11,Shopping,Expense,137.73,Bank Transfer
+2025-10-11,Education,Expense,169.24,Cash
+2025-10-14,Entertainment,Expense,6258.64,Card
+2025-10-14,Salary,Income,64052.17,Cash
+2025-10-15,Other,Expense,2768.15,Cash
+2025-10-17,Travel,Expense,9846.33,Cash
+2025-10-17,Shopping,Expense,7917.55,Bank Transfer
+2025-10-19,Bills,Expense,2651.21,UPI
+2025-10-20,Salary,Income,43994.43,Bank Transfer
+2025-10-22,Bills,Expense,2839.71,Cash
+2025-10-23,Entertainment,Expense,2142.25,UPI
+2025-10-25,Salary,Income,26861.5,Card
+2025-10-26,Entertainment,Expense,6835.0,Cash
+2025-10-27,Shopping,Expense,9248.42,Card
+2025-10-29,Salary,Income,38417.49,UPI
+2025-10-30,Other,Income,1163.43,Card
+2025-10-31,Salary,Income,33999.0,Cash
+2025-10-31,Other,Expense,5643.3,Card
+2025-10-31,Other,Expense,590.81,Bank Transfer
+2025-11-01,Education,Expense,1159.81,Cash
+2025-11-01,Entertainment,Expense,7257.38,Bank Transfer
+2025-11-01,Education,Expense,8145.54,Cash
+2025-11-02,Bills,Expense,6890.52,UPI
+2025-11-03,Shopping,Expense,4391.16,Cash
+2025-11-03,Other,Expense,9757.78,UPI
+2025-11-04,Healthcare,Expense,6265.63,Card
+2025-11-04,Healthcare,Expense,4111.67,Cash
+2025-11-05,Entertainment,Expense,9599.58,Card
+2025-11-05,Education,Expense,5558.02,Bank Transfer
+2025-11-06,Salary,Income,11377.92,UPI
+2025-11-06,Other,Income,1353.29,Card
+2025-11-08,Salary,Income,17926.68,Card
+2025-11-09,Food,Expense,5448.96,Bank Transfer
+2025-11-10,Other,Expense,8191.33,Bank Transfer
+2025-11-10,Transport,Expense,267.06,Bank Transfer
+2025-11-11,Salary,Income,25797.74,Cash
+2025-11-12,Healthcare,Expense,8452.28,Card
+2025-11-13,Bills,Expense,4668.95,Bank Transfer
+2025-11-14,Education,Expense,6581.95,Cash
+2025-11-14,Salary,Income,29695.23,UPI
+2025-11-14,Entertainment,Expense,2976.06,Cash
+2025-11-16,Bills,Expense,8236.9,UPI
+2025-11-17,Transport,Expense,2043.11,Cash
+2025-11-17,Other,Expense,9550.01,UPI
+2025-11-17,Salary,Income,13533.78,Card
+2025-11-18,Salary,Income,23059.81,UPI
+2025-11-18,Other,Income,845.08,Card
+2025-11-19,Entertainment,Expense,7208.29,Card
+2025-11-20,Entertainment,Expense,10066.66,UPI
+2025-11-20,Healthcare,Expense,10397.08,UPI
+2025-11-21,Education,Expense,6987.17,Cash
+2025-11-21,Other,Expense,2664.91,Card
+2025-11-21,Travel,Expense,2405.37,Card
+2025-11-21,Travel,Expense,4812.03,Cash
+2025-11-25,Other,Income,7949.01,Cash
+2025-11-25,Transport,Expense,7605.47,UPI
+2025-11-25,Entertainment,Expense,11733.79,UPI
+2025-11-25,Travel,Expense,8886.02,Cash
+2025-11-26,Entertainment,Expense,9744.26,Bank Transfer
+2025-11-26,Food,Expense,9894.51,Bank Transfer
+2025-11-27,Bills,Expense,6292.4,Bank Transfer
+2025-11-28,Transport,Expense,5254.74,Card
+2025-11-29,Food,Expense,4484.02,Cash
+2025-12-01,Food,Expense,589.9,UPI
+2025-12-01,Education,Expense,223.28,Cash
+2025-12-02,Other,Expense,533.75,Card
+2025-12-05,Other,Income,7461.51,Bank Transfer
+2025-12-09,Healthcare,Expense,2651.06,UPI
+2025-12-11,Shopping,Expense,621.07,Cash
+2025-12-11,Other,Expense,11663.47,Bank Transfer
+2025-12-12,Transport,Expense,8217.92,UPI
+2025-12-15,Healthcare,Expense,2035.8,Bank Transfer
+2025-12-16,Transport,Expense,386.87,Cash
+2025-12-16,Bills,Expense,5704.95,Card
+2025-12-18,Other,Income,676.12,Card
+2025-12-20,Travel,Expense,9978.9,UPI
+2025-12-20,Bills,Expense,592.56,Bank Transfer
+2025-12-22,Other,Expense,10693.88,Bank Transfer
+2025-12-22,Healthcare,Expense,8033.8,Bank Transfer
+2025-12-22,Salary,Income,40222.76,Card
+2025-12-23,Entertainment,Expense,6253.86,Card
+2025-12-23,Salary,Income,24133.69,Bank Transfer
+2025-12-26,Shopping,Expense,7985.08,Bank Transfer
+2025-12-27,Other,Expense,2083.45,Card
+2025-12-27,Shopping,Expense,3599.68,UPI
+2025-12-30,Education,Expense,11729.82,Card
+2025-12-30,Other,Expense,7116.22,Bank Transfer
+2025-12-31,Other,Income,5454.73,Bank Transfer
+2026-01-01,Bills,Expense,1433.96,Cash
+2026-01-01,Healthcare,Expense,6385.44,Cash
+2026-01-03,Education,Expense,4117.39,Bank Transfer
+2026-01-03,Other,Income,7566.93,Card
+2026-01-04,Other,Expense,3318.07,Card
+2026-01-08,Education,Expense,5694.06,Cash
+2026-01-09,Travel,Expense,11024.97,Card
+2026-01-10,Food,Expense,4043.07,Card
+2026-01-10,Other,Expense,9205.99,Bank Transfer
+2026-01-11,Other,Income,5111.89,Bank Transfer
+2026-01-12,Salary,Income,33411.84,Bank Transfer
+2026-01-13,Salary,Income,64581.34,Cash
+2026-01-13,Food,Expense,8158.08,Bank Transfer
+2026-01-15,Salary,Income,42827.81,UPI
+2026-01-16,Travel,Expense,4433.19,Bank Transfer
+2026-01-18,Shopping,Expense,10712.36,Cash
+2026-01-19,Travel,Expense,8927.2,Bank Transfer
+2026-01-21,Entertainment,Expense,303.46,Cash
+2026-01-21,Other,Expense,10587.54,UPI
+2026-01-23,Transport,Expense,2690.94,Bank Transfer
+2026-01-23,Transport,Expense,9222.59,Bank Transfer
+2026-01-24,Transport,Expense,6695.9,Cash
+2026-01-24,Salary,Income,28912.52,Card
+2026-01-24,Transport,Expense,9679.33,UPI
+2026-01-25,Salary,Income,61098.18,Cash
+2026-01-26,Shopping,Expense,2127.5,Bank Transfer
+2026-01-26,Other,Income,2649.56,Cash
+2026-01-27,Entertainment,Expense,6009.8,Cash
+2026-01-27,Healthcare,Expense,8732.17,Bank Transfer
+2026-01-27,Food,Expense,938.6,UPI
+2026-01-30,Shopping,Expense,2451.48,Bank Transfer
+2026-01-30,Food,Expense,4407.99,Cash
+2026-01-31,Entertainment,Expense,11108.55,UPI
+2026-02-02,Salary,Income,60536.9,Bank Transfer
+2026-02-03,Education,Expense,3520.82,Card
+2026-02-05,Shopping,Expense,10801.12,UPI
+2026-02-05,Travel,Expense,6446.34,UPI
+2026-02-05,Education,Expense,6969.15,Card
+2026-02-05,Food,Expense,10844.37,Card
+2026-02-07,Other,Expense,5330.4,Card
+2026-02-08,Bills,Expense,3771.41,Card
+2026-02-09,Salary,Income,24675.46,UPI
+2026-02-10,Shopping,Expense,8672.58,Cash
+2026-02-10,Education,Expense,5246.3,Bank Transfer
+2026-02-11,Education,Expense,5075.85,Card
+2026-02-11,Shopping,Expense,4778.86,UPI
+2026-02-12,Salary,Income,28439.4,Cash
+2026-02-14,Entertainment,Expense,131.53,Bank Transfer
+2026-02-15,Entertainment,Expense,630.47,Cash
+2026-02-16,Shopping,Expense,2220.87,Card
+2026-02-16,Other,Expense,4300.32,UPI
+2026-02-17,Salary,Income,49381.65,UPI
+2026-02-17,Entertainment,Expense,6937.06,UPI
+2026-02-17,Shopping,Expense,7904.95,Cash
+2026-02-19,Salary,Income,38577.29,Cash
+2026-02-20,Healthcare,Expense,9916.55,Cash
+2026-02-23,Travel,Expense,4706.12,UPI
+2026-02-24,Shopping,Expense,9852.52,UPI
+2026-02-25,Salary,Income,53665.28,Cash
+2026-02-25,Bills,Expense,7686.86,Card
+2026-02-28,Food,Expense,8932.03,Bank Transfer
+2026-02-28,Salary,Income,28365.92,Bank Transfer
+2026-02-28,Healthcare,Expense,3681.16,UPI
+2026-03-01,Other,Expense,6025.43,Bank Transfer
+2026-03-07,Shopping,Expense,7738.97,Bank Transfer
+2026-03-07,Entertainment,Expense,6957.45,Cash
+2026-03-07,Salary,Income,49858.14,Card
+2026-03-09,Transport,Expense,6663.62,UPI
+2026-03-10,Shopping,Expense,4466.24,Card
+2026-03-10,Transport,Expense,742.51,Bank Transfer
+2026-03-11,Salary,Income,36398.26,Card
+2026-03-12,Bills,Expense,1936.73,Card
+2026-03-12,Salary,Income,61743.68,Cash
+2026-03-12,Shopping,Expense,10525.27,UPI
+2026-03-13,Healthcare,Expense,3062.13,Card
+2026-03-13,Shopping,Expense,7277.46,Cash
+2026-03-14,Entertainment,Expense,8932.3,Bank Transfer
+2026-03-16,Other,Expense,11356.07,Card
+2026-03-16,Entertainment,Expense,9565.79,UPI
+2026-03-17,Education,Expense,11426.83,Cash
+2026-03-17,Healthcare,Expense,136.03,Bank Transfer
+2026-03-17,Salary,Income,8660.49,Bank Transfer
+2026-03-17,Education,Expense,6351.41,Card
+2026-03-17,Entertainment,Expense,10545.35,Bank Transfer
+2026-03-17,Other,Income,1626.96,Card
+2026-03-20,Salary,Income,10877.87,UPI
+2026-03-20,Entertainment,Expense,6976.73,Bank Transfer
+2026-03-24,Salary,Income,16765.16,Cash
+2026-03-25,Salary,Income,21096.74,Card
+2026-03-27,Salary,Income,9309.49,Bank Transfer
+2026-03-29,Salary,Income,21093.45,UPI
+2026-03-30,Food,Expense,7333.86,Cash
+2026-03-30,Shopping,Expense,6377.47,Card
+2026-03-30,Healthcare,Expense,7524.26,UPI
+2026-03-31,Travel,Expense,4755.52,UPI
+2026-03-31,Transport,Expense,7864.07,UPI
+2026-03-31,Education,Expense,8898.54,Cash
+2026-04-01,Salary,Income,19420.85,Cash
+2026-04-01,Transport,Expense,6866.26,Bank Transfer
+2026-04-02,Salary,Income,46668.9,Card
+2026-04-02,Education,Expense,5254.34,UPI
+2026-04-02,Healthcare,Expense,4746.91,UPI
+2026-04-02,Travel,Expense,3545.66,Bank Transfer
+2026-04-05,Salary,Income,46658.27,Cash
+2026-04-05,Travel,Expense,9869.89,Card
+2026-04-06,Transport,Expense,6305.37,Card
+2026-04-06,Healthcare,Expense,1068.07,Card
+2026-04-06,Salary,Income,46384.62,Bank Transfer
+2026-04-07,Transport,Expense,4826.66,Cash
+2026-04-08,Shopping,Expense,4638.76,UPI
+2026-04-09,Education,Expense,9104.96,UPI
+2026-04-12,Transport,Expense,6754.26,UPI
+2026-04-13,Bills,Expense,10118.7,Card
+2026-04-13,Education,Expense,5797.22,Cash
+2026-04-14,Other,Expense,9059.08,Cash
+2026-04-14,Food,Expense,11084.94,Bank Transfer
+2026-04-14,Travel,Expense,10712.58,Card
+2026-04-15,Food,Expense,10604.81,UPI
+2026-04-17,Transport,Expense,8603.43,Cash
+2026-04-20,Healthcare,Expense,1486.26,UPI
+2026-04-21,Entertainment,Expense,7973.2,Bank Transfer
+2026-04-22,Bills,Expense,6766.5,UPI
+2026-04-22,Salary,Income,18141.28,Bank Transfer
+2026-04-22,Other,Income,1874.84,Card
+2026-04-23,Bills,Expense,4303.12,UPI
+2026-04-24,Travel,Expense,6809.07,Card
+2026-04-24,Education,Expense,6180.47,Cash
+2026-04-26,Healthcare,Expense,6188.78,Card
+2026-04-26,Education,Expense,2389.15,Bank Transfer
+2026-04-28,Transport,Expense,531.37,Card
+2026-04-30,Salary,Income,49537.22,Bank Transfer
+2026-05-01,Healthcare,Expense,1579.97,UPI
+2026-05-01,Food,Expense,938.38,Cash
+2026-05-02,Entertainment,Expense,9292.39,UPI
+2026-05-03,Bills,Expense,4309.11,Cash
+2026-05-03,Travel,Expense,7026.03,Card
+2026-05-04,Entertainment,Expense,9121.35,Cash
+2026-05-05,Bills,Expense,10450.61,Card
+2026-05-05,Transport,Expense,10824.78,Cash
+2026-05-05,Salary,Income,39889.84,Bank Transfer
+2026-05-06,Transport,Expense,7732.39,Cash
+2026-05-06,Entertainment,Expense,2650.56,Card
+2026-05-10,Entertainment,Expense,1632.87,UPI
+2026-05-11,Entertainment,Expense,8355.43,Cash
+2026-05-12,Entertainment,Expense,2916.4,Card
+2026-05-13,Transport,Expense,9175.93,Bank Transfer
+2026-05-13,Shopping,Expense,6383.24,Cash
+2026-05-13,Entertainment,Expense,4887.5,UPI
+2026-05-13,Other,Income,5241.51,Bank Transfer
+2026-05-13,Entertainment,Expense,928.9,Cash
+2026-05-16,Salary,Income,13866.76,Card
+2026-05-17,Education,Expense,6720.49,Cash
+2026-05-17,Education,Expense,10443.76,Card
+2026-05-18,Travel,Expense,5654.49,Card
+2026-05-18,Education,Expense,6321.11,UPI
+2026-05-20,Shopping,Expense,1071.68,Card
+2026-05-23,Education,Expense,4418.84,Card
+2026-05-23,Shopping,Expense,6544.74,Bank Transfer
+2026-05-23,Salary,Income,34922.04,Card
+2026-05-24,Shopping,Expense,6131.4,Bank Transfer
+2026-05-26,Other,Expense,1398.55,Bank Transfer
+2026-05-30,Bills,Expense,6119.3,Card
+2026-05-30,Education,Expense,10506.34,Bank Transfer
+2026-05-31,Salary,Income,28563.06,Bank Transfer
+2026-05-31,Other,Income,7759.72,Card
+2026-05-31,Healthcare,Expense,3148.85,UPI
+2026-06-01,Food,Expense,8121.04,Bank Transfer
+2026-06-01,Entertainment,Expense,1395.16,Cash
+2026-06-02,Other,Expense,11987.83,UPI
+2026-06-02,Transport,Expense,6911.7,UPI
+2026-06-04,Transport,Expense,329.21,Card
+2026-06-04,Shopping,Expense,9416.66,Cash
+2026-06-04,Salary,Income,55007.12,Card
+2026-06-05,Salary,Income,22603.51,Bank Transfer
+2026-06-05,Other,Expense,7663.29,Bank Transfer
+2026-06-06,Transport,Expense,1030.98,Cash
+2026-06-06,Salary,Income,43160.14,Card
+2026-06-07,Shopping,Expense,9626.12,Cash
+2026-06-09,Other,Expense,11537.61,Cash
+2026-06-10,Transport,Expense,8797.39,UPI
+2026-06-10,Bills,Expense,11314.14,UPI
+2026-06-12,Bills,Expense,3499.45,UPI
+2026-06-13,Transport,Expense,4754.1,UPI
+2026-06-14,Entertainment,Expense,3998.1,Card
+2026-06-14,Healthcare,Expense,4553.62,Bank Transfer
+2026-06-15,Bills,Expense,2329.44,UPI
+2026-06-15,Transport,Expense,5608.96,UPI
+2026-06-15,Salary,Income,11687.75,UPI
+2026-06-17,Salary,Income,30450.36,Bank Transfer
+2026-06-18,Salary,Income,42986.77,Card
+2026-06-19,Education,Expense,579.54,Cash
+2026-06-21,Food,Expense,8682.41,UPI
+2026-06-21,Food,Expense,5830.08,Bank Transfer
+2026-06-21,Bills,Expense,8537.92,Card
+2026-06-21,Education,Expense,8217.75,UPI
+2026-06-23,Salary,Income,44460.56,UPI
+2026-06-24,Education,Expense,8840.54,Cash
+2026-06-24,Shopping,Expense,7273.01,UPI
+2026-06-25,Entertainment,Expense,3891.4,Cash
+2026-06-28,Healthcare,Expense,4805.68,Cash
+2026-06-29,Education,Expense,288.38,UPI
+2026-06-29,Bills,Expense,3105.77,UPI
