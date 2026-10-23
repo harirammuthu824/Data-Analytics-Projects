@@ -1,29 +1,41 @@
-# Task 2: Superstore Sales Dashboard
+# Task 2: Interactive Sales & Profit Dashboard
 
-## Project Overview
-An interactive sales dashboard developed using Python, Pandas, Streamlit, and Plotly to analyze Superstore sales and profit data.
+## Objective
+Build an interactive dashboard to explore Superstore sales and profitability.
 
-## Features
-- Category-wise sales analysis
-- Region-wise profit analysis
-- Sales and profit KPIs
-- Interactive data visualization
-- CSV dataset upload
-
-## Technologies Used
+## Tools
 - Python
-- Pandas
 - Streamlit
+- Pandas
 - Plotly
 
-## How to Run
-Install the required libraries:
+## Features
+- KPI cards for Sales, Profit, Orders, and Profit Margin
+- Date range filter
+- Product category and region filters
+- Monthly sales trend
+- Category-wise sales
+- Region-wise profit
+- Summary table and filtered CSV download
 
-`pip install -r requirements.txt`
+## Run locally
+1. Install Python 3.10 or newer.
+2. Open a terminal in this folder.
+3. Install dependencies:
 
-Run the dashboard:
+   ```bash
+   python -m pip install -r requirements.txt
+   ```
 
-`streamlit run app.py`
+4. Start the dashboard:
 
-## Output
-The dashboard displays category sales and regional profit charts based on the uploaded Superstore CSV dataset.
+   ```bash
+   python -m streamlit run app.py
+   ```
+
+5. Upload a valid Superstore CSV file in the browser page.
+
+## Expected CSV columns
+`Order Date`, `Sales`, `Profit`, `Category`, `Region`, `Order ID`
+
+This is a Python dashboard alternative and does not generate a Power BI `.pbix` file.
